@@ -1,0 +1,25 @@
+{
+  "name": "@thumbsu/prettier-config",
+  "version": "0.0.1",
+  "description": "prettier config",
+  "keywords": [
+    "prettier"
+  ],
+  "author": "thumbsu <uumj222@gmail.com>",
+  "homepage": "https://github.com/thumbsu/prettier-config#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thumbsu/prettier-config.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "prettier": "^2.6.2"
+  },
+  "bugs": {
+    "url": "https://github.com/thumbsu/prettier-config/issues"
+  }
+}
